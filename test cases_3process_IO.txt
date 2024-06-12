@@ -1,0 +1,141 @@
+Test Case 1: FCFS (First-Come, First-Served)
+Input:
+
+Enter total no. of processes: 3
+PROCESS [1]
+Enter process name: P1
+Enter burst time: 5
+Enter arrival time: 0
+Enter priority: 2
+PROCESS [2]
+Enter process name: P2
+Enter burst time: 3
+Enter arrival time: 2
+Enter priority: 1
+PROCESS [3]
+Enter process name: P3
+Enter burst time: 8
+Enter arrival time: 4
+Enter priority: 3
+
+
+
+=================================================
+
+Test Case 2: SJF (Non Pre-emptive)
+Input:
+
+Enter total no. of processes: 3
+PROCESS [1]
+Enter process name: P1
+Enter burst time: 5
+Enter arrival time: 0
+Enter priority: 2
+PROCESS [2]
+Enter process name: P2
+Enter burst time: 3
+Enter arrival time: 2
+Enter priority: 1
+PROCESS [3]
+Enter process name: P3
+Enter burst time: 8
+Enter arrival time: 4
+Enter priority: 3
+
+
+
+=====================================================
+
+
+
+Test Case 3: SJF (Pre-emptive)
+Input:
+
+Enter total no. of processes: 3
+PROCESS [1]
+Enter process name: P1
+Enter burst time: 5
+Enter arrival time: 0
+Enter priority: 2
+PROCESS [2]
+Enter process name: P2
+Enter burst time: 3
+Enter arrival time: 2
+Enter priority: 1
+PROCESS [3]
+Enter process name: P3
+Enter burst time: 8
+Enter arrival time: 4
+Enter priority: 3
+
+
+====================================================
+
+
+Test Case 4: Priority Scheduling (Non Pre-emptive)
+Input:
+
+Enter total no. of processes: 3
+PROCESS [1]
+Enter process name: P1
+Enter burst time: 5
+Enter arrival time: 0
+Enter priority: 2
+PROCESS [2]
+Enter process name: P2
+Enter burst time: 3
+Enter arrival time: 2
+Enter priority: 1
+PROCESS [3]
+Enter process name: P3
+Enter burst time: 8
+Enter arrival time: 4
+Enter priority: 3
+
+
+========================================================
+
+
+Test Case 5: Priority Scheduling (Pre-emptive)
+Input:
+
+Enter total no. of processes: 3
+PROCESS [1]
+Enter process name: P1
+Enter burst time: 5
+Enter arrival time: 0
+Enter priority: 2
+PROCESS [2]
+Enter process name: P2
+Enter burst time: 3
+Enter arrival time: 2
+Enter priority: 1
+PROCESS [3]
+Enter process name: P3
+Enter burst time: 8
+Enter arrival time: 4
+Enter priority: 3
+
+
+============================================================
+
+Test Case 6: Round Robin
+Input:
+
+Enter total no. of processes: 3
+PROCESS [1]
+Enter process name: P1
+Enter burst time: 5
+Enter arrival time: 0
+Enter priority: 2
+PROCESS [2]
+Enter process name: P2
+Enter burst time: 3
+Enter arrival time: 2
+Enter priority: 1
+PROCESS [3]
+Enter process name: P3
+Enter burst time: 8
+Enter arrival time: 4
+Enter priority: 3
+Enter quantum time: 2

@@ -1,0 +1,13 @@
+Total processes: 5
+
+Process details:
+
+P1: Arrival Time = 0, Burst Time = 6, Priority = 2
+P2: Arrival Time = 1, Burst Time = 7, Priority = 1
+P3: Arrival Time = 2, Burst Time = 3, Priority = 3
+P4: Arrival Time = 3, Burst Time = 9, Priority = 2
+P5: Arrival Time = 4, Burst Time = 5, Priority = 4
+
+
+
+
